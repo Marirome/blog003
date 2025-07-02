@@ -19,7 +19,7 @@ cd el-nombre-de-tu-fork
 ```
 ---
 
-### 2. Subir cambios al repositorio principal
+### 3. Subir cambios al repositorio principal
 
 Ve a la pestaña de **[Pull requests]**, da click en 'Create pull request' y de nueva cuenta da click en 'Create pull request'.
 
