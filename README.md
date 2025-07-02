@@ -1,4 +1,4 @@
-# :tools: Instrucciones para Contribuir a Este Repositorio
+# Instrucciones para contribuir a este repositorio
 
 ---
 
