@@ -12,7 +12,7 @@
 
   <div>
     <label class="block mb-1 font-medium">Imagen</label>
-    <input type="file" name="image" class="w-full border border-gray-300 rounded p-2">
+    <input type="file" name="image" class="w-full border border-gray-300 rounded p-2" required>
     <?php if (!empty($post['image'])): ?>
       <img src="/uploads/<?= $post['image'] ?>" alt="Imagen actual" class="mt-2 h-24 rounded">
     <?php endif; ?>
