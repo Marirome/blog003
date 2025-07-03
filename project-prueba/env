@@ -38,6 +38,12 @@
 # database.default.DBPrefix =
 # database.default.port = 3306
 
+database.default.hostname = localhost
+database.default.database = mini_blog
+database.default.username = root
+database.default.password = 
+database.default.DBDriver = MySQLi
+
 # If you use MySQLi as tests, first update the values of Config\Database::$tests.
 # database.tests.hostname = localhost
 # database.tests.database = ci4_test
